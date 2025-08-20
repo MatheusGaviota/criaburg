@@ -5,8 +5,10 @@ export default function Navbar() {
                 <img src="/3dburguer.png" alt="" className="size-15"/>
                 <h3 className="font-lexend font-bold text-2xl">CriaBurg</h3>
             </div>
-            <div className="flex items-center justify-center gap-15">
-
+            <div className="flex items-center justify-center gap-15 text-primary text-xl">
+                <p className="">Início</p>
+                <p className="">Sobre</p>
+                <p className="">Menu</p>
             </div>
         </div>
     )
