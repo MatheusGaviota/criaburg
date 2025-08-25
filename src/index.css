@@ -30,6 +30,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+#root {
+  width: 100vw;
+}
+
 body {
   margin: 0;
   display: flex;
