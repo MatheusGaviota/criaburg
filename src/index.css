@@ -34,6 +34,10 @@
   width: 100vw;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   display: flex;
