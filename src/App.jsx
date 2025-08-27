@@ -1,11 +1,10 @@
-import { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Navbar from '/src/components/organisms/Navbar'
 import Footer from '/src/components/organisms/Footer'
 import Home from '/src/components/pages/Home'
 import Recipe from '/src/components/pages/Recipe'
-import Login from './components/pages/login'
-import Signin from './components/pages/signin'
+import Login from './components/pages/Login'
+import Signin from './components/pages/Signin'
 import './App.css'
 
 function App() {
